@@ -15,7 +15,7 @@ def tambahKendaraan(head, plat):
     currentNode = head
     while currentNode.next:
       currentNode=currentNode.next
-  
+      
     currentNode.next = plat
 
 def hapusKendaraan(head,hapusplat):
