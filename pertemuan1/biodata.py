@@ -1,3 +1,3 @@
 print("hello world")
 print("Raziq Muflih")
-primt("25071101697")
+print("25071101697")
